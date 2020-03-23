@@ -9,6 +9,9 @@ For example, can be convenient when you have a scrollable list with touchable el
 
 ```jsx
 import { ReliableTouchElement } from "reliable-touch-element"
+// or
+import ReliableTouchElement from "reliable-touch-element"
+// but prefer the first 😉
 
 <ReliableTouchElement onTouch={handleTouch}>
   Hello World!

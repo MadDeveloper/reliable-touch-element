@@ -31,3 +31,5 @@ StableTouchElement.propTypes = {
   onTouch: PropTypes.func.isRequired,
   children: PropTypes.any
 }
+
+export default StableTouchElement

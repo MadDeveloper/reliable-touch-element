@@ -1,6 +1,6 @@
 {
   "name": "reliable-touch-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Element with a reliable onTouch",
   "repository": {
     "type": "git",
