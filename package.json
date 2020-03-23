@@ -1,0 +1,31 @@
+{
+  "name": "reliable-touch-element",
+  "version": "1.0.0",
+  "description": "Element with a reliable onTouch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MadDeveloper/reliable-touch-element.git"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react",
+    "touch",
+    "reliable",
+    "scroll",
+    "element",
+    "javascript",
+    "react-component",
+    "hoc"
+  ],
+  "author": {
+    "email": "sergent.julien@icloud.com",
+    "name": "Julien Sergent (maddeveloper)",
+    "url": "https://github.com/MadDeveloper"
+  },
+  "prettier": {
+    "semi": false
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}
